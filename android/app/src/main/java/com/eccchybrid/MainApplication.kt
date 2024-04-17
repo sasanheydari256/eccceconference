@@ -1,4 +1,4 @@
-package com.eccchybrid
+package com.eccceconference
 
 import android.app.Application
 import com.facebook.react.PackageList
